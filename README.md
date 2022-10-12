@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an app that lets you build a squad in fifa ultimate team.**
 
-- 🌱 I’m currently learning **CRUD,C++**
+- 🌱 I’m currently learning **NODEJS,REACT**
 
 - 👯 I’m looking to collaborate on **any projects that peak my interest and have good team support.**
 
