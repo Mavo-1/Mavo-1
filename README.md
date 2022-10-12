@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mavoholic41" target="blank"><img src="https://img.shields.io/twitter/follow/mavoholic41?logo=twitter&style=for-the-badge" alt="mavoholic41" /></a> </p>
 
-- 🔭 I’m currently working on **an app that lets you build a squad in fifa ultimate team.**
+- 🔭 I’m currently working on **an app that lets you keep track of your pets daily life so you never forget.**
 
 - 🌱 I’m currently learning **NODEJS,REACT**
 
