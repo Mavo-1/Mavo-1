@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any projects that peak my interest and have good team support.**
 
-- 👨‍💻 All of my projects are available at [https://mavo.netlify.app](https://mavo.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mavo.netlify.app](https://alexgarcia.netlify.app)
 
 - 💬 Ask me about **anything, would love to connect and chat.**
 
