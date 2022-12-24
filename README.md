@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👯 I’m looking to collaborate on **any projects that peak my interest and have good team support.**
+- 👯 I’m looking to collaborate on **projects that peak my interest and have good team support.**
 
 - 👨‍💻 All of my projects are available at [https://alexgarcia.netlify.app](https://alexgarcia.netlify.app)
 
