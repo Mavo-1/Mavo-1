@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **agarciacoding@gmail.com**
 
-- ⚡ Fun facts about me **I love sports and gaming. **
+- ⚡ Fun facts about me **I love sports and gaming whenever Im not busy coding. :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
