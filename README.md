@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alexgarcia.netlify.app](https://alexgarcia.netlify.app)
 
-- 💬 Ask me about **anything, would love to connect and chat.**
+- 💬 Ask me about **anything, especially my projects, would love to connect and chat.**
 
 - 📫 How to reach me **agarciacoding@gmail.com**
 
