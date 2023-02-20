@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an app that lets you keep track of your pets daily life so you never forget the important things.**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **REACT**
 
 - 👯 I’m looking to collaborate on **projects that peak my interest and have good team support.**
 
