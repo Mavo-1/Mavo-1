@@ -22,8 +22,8 @@ Here are some of the technologies and tools I work with:
 
 - **Languages:** JavaScript, 
 - **Frontend:** HTML, CSS, React, 
-- **Backend:** Node.js, Express.js, 
-- **Databases:** MongoDB, 
+- **Backend:** Node.js, Express.js, PHP
+- **Databases:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
 
 
